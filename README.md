@@ -1,7 +1,8 @@
 # Pokemon Custom TCG (PCTCG) Set Manager
-This repository contains the Python script used to construct the Set Manager executable file. The executable was compiled with PyInstaller.
-After downloading and unzipping the latest release, simply use the .exe file within the folder.  
-The Set Manager imports and exports .ptco files, which are simply renamed .zip files. 
+This repository contains the Python script used to construct the Set Manager executable file.  
+The executable was compiled with PyInstaller.  
+After downloading and unzipping the latest release, simply use the .exe file within the folder.   
+The Set Manager imports and exports .ptco files, which are simply renamed .zip files.  
 
 # Legal Disclaimer and Terms of Use
 ## 1. No Affiliation and Intellectual Property
