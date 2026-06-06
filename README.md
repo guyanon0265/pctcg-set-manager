@@ -3,6 +3,7 @@ This repository contains the Python script used to construct the Set Manager exe
 The executable was compiled with PyInstaller.  
 After downloading and unzipping the latest release, simply use the .exe file within the folder.   
 The Set Manager imports and exports .ptco files, which are simply renamed .zip files.  
+Take a look at the [wiki](https://github.com/guyanon0265/pctcg-set-manager/wiki) for instructions on how to play PCTCG. 
 
 # Legal Disclaimer and Terms of Use
 ## 1. No Affiliation and Intellectual Property
